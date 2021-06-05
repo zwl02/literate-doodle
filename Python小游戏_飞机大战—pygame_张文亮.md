@@ -1,4 +1,4 @@
-# 【Python小游戏】飞机大战—pygame
+# Python小游戏_飞机大战—pygame
 
 ## 1.初始化 显示窗口
 
